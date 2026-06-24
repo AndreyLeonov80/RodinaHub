@@ -397,3 +397,5 @@ RodinaHub — это не просто приложение.
 
 **RodinaHub**  
 **Жить. Работать. Развивать своё.**
+
+Контакт: https://github.com/AndreyLeonov80/about
